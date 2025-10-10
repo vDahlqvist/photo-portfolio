@@ -27,13 +27,17 @@
 }
 
 .caption h3 {
+  margin: 10px 0 5px 0;
 
 }
 
 .caption p {
-
+  margin: 0 0 10px 0;
+  font-size: 0.9em;
+  color: #555;
 }
 
 .caption small {
-
+  color: #999;
+  font-size: 0.8em;
 }
