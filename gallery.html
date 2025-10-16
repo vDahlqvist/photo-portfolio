@@ -14,10 +14,9 @@
                     <h1>Vilmer Dahlqvist</h1>
                 </div>
                 <div class="header-links">
-                    <a href="#">Home</a>
-                    <a href="#">About</a>
-                    <a href="#">Services</a>
-                    <a href="#">Contact</a>
+                    <a href="index.html">Hem</a>
+                    <a href="#">Om</a>
+                    <a href="#">Kontakt</a>
                 </div>
             
                 <div class="logo">
@@ -28,5 +27,12 @@
         <div id="gallery"></div>
         <script src="script.js"></script>
     </div>
+    footer>
+        © <span id="year"></span> Vilmer Dahlqvist. All rights reserved.
+    </footer>
+
+<script>
+  document.getElementById("year").textContent = new Date().getFullYear();
+</script>
 </body>
 </html>

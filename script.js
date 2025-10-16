@@ -31,8 +31,7 @@ fetch("photos.json")
         <h3>${photo.title}</h3>
         <p>${photo.description}</p>
         <small>Date: ${photo.date}</small><br>
-        <small>Tags: ${photo.tags.join(", ")}</small>
-      `;
+        <small>Tags: ${photo.tags.join(", ")}</small>`;
 
       // Assemble the photo card: add image and caption to wrapper
       wrapper.appendChild(img);

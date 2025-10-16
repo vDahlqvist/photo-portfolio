@@ -2,8 +2,106 @@
     {
         "src": "assets/photos/_MG_8948.jpg",
         "title": "Cykeltur",
-        "description": "Gammal cykel i en glänta",
+        "description": "",
         "tags": ["cykel", "skog", "natur", "solnedgång"],
         "date": "2025-07-18"
+    },
+    {
+        "src": "assets/photos/_MG_8858.jpg",
+        "title": "Humlan",
+        "description": "",
+        "tags": ["natur", "insekter", "blommor"],
+        "date": "2025-07-18"
+    },
+    {
+        "src": "assets/photos/_MG_8861.jpg",
+        "title": "Vid fågelbadet",
+        "description": "",
+        "tags": ["natur", "djur", "stenfigur"],
+        "date": "2025-07-18"
+    },
+    {
+        "src": "assets/photos/_MG_8863.jpg",
+        "title": "Solkatt",
+        "description": "",
+        "tags": ["djur", "stenfigur"],
+        "date": "2025-07-18"
+    },
+    {
+        "src": "assets/photos/_MG_8873.jpg",
+        "title": "Fjäril i trädgården",
+        "description": "",
+        "tags": ["blommor", "insekter", "natur"],
+        "date": "2025-07-18"
+    },
+    {
+        "src": "assets/photos/_MG_8877.jpg",
+        "title": "Vänner för livet",
+        "description": "",
+        "tags": ["stenfigur", "natur"],
+        "date": "2025-07-18"
+    },
+    {
+        "src": "assets/photos/_MG_8921.jpg",
+        "title": "Solnedgång på bryggan",
+        "description": "",
+        "tags": ["solnedgång", "brygga", "sjö"],
+        "date": "2025-07-18"
+    },
+    {
+        "src": "assets/photos/_MG_8924.jpg",
+        "title": "Roddbåt",
+        "description": "",
+        "tags": ["natur", "sjö", "solnedgång", "båt"],
+        "date": "2025-07-18"
+    },
+    {
+        "src": "assets/photos/_MG_8926.jpg",
+        "title": "",
+        "description": "",
+        "tags": [],
+        "date": ""
+    },
+    {
+        "src": "assets/photos/_MG_8932.jpg",
+        "title": "",
+        "description": "",
+        "tags": [],
+        "date": ""
+    },
+    {
+        "src": "assets/photos/_MG_8937.jpg",
+        "title": "",
+        "description": "",
+        "tags": [],
+        "date": ""
+    },
+    {
+        "src": "assets/photos/_MG_8940.jpg",
+        "title": "",
+        "description": "",
+        "tags": [],
+        "date": ""
+    },
+    {
+        "src": "assets/photos/_MG_8942.jpg",
+        "title": "",
+        "description": "",
+        "tags": [],
+        "date": ""
+    },
+    {
+        "src": "assets/photos/_MG_8952.jpg",
+        "title": "",
+        "description": "",
+        "tags": [],
+        "date": ""
+    },
+    {
+        "src": "assets/photos/_MG_8956.jpg",
+        "title": "",
+        "description": "",
+        "tags": [],
+        "date": ""
     }
 ]
