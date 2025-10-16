@@ -57,51 +57,51 @@
     },
     {
         "src": "assets/photos/_MG_8926.jpg",
-        "title": "",
+        "title": "Tavlan",
         "description": "",
-        "tags": [],
-        "date": ""
+        "tags": ["natur", "skog", "sjö"],
+        "date": "2025-07-18"
     },
     {
         "src": "assets/photos/_MG_8932.jpg",
-        "title": "",
+        "title": "Kontrast och skuggor",
         "description": "",
-        "tags": [],
-        "date": ""
+        "tags": ["natur", "skog", "solnedgång"],
+        "date": "2025-07-18"
     },
     {
         "src": "assets/photos/_MG_8937.jpg",
-        "title": "",
+        "title": "Mot sjön",
         "description": "",
-        "tags": [],
-        "date": ""
+        "tags": ["båt", "sjö", "skog"],
+        "date": "2025-07-18"
     },
     {
         "src": "assets/photos/_MG_8940.jpg",
-        "title": "",
+        "title": "Sittplats i solnedgången",
         "description": "",
-        "tags": [],
-        "date": ""
+        "tags": ["solnedgång", "natur"],
+        "date": "2025-07-18"
     },
     {
         "src": "assets/photos/_MG_8942.jpg",
-        "title": "",
+        "title": "Kontrast och skuggor, igen",
         "description": "",
-        "tags": [],
-        "date": ""
+        "tags": ["skog", "solnedgång"],
+        "date": "2025-07-18"
     },
     {
         "src": "assets/photos/_MG_8952.jpg",
-        "title": "",
+        "title": "Bryggan",
         "description": "",
-        "tags": [],
-        "date": ""
+        "tags": ["brygga", "sjö", "natur"],
+        "date": "2025-07-18"
     },
     {
         "src": "assets/photos/_MG_8956.jpg",
-        "title": "",
+        "title": "Kväll i gläntan",
         "description": "",
-        "tags": [],
-        "date": ""
+        "tags": ["natur", "skog", "solnedgång"],
+        "date": "2025-07-18"
     }
 ]
