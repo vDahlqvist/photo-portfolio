@@ -17,12 +17,18 @@ fetch("photos.json")
       const wrapper = document.createElement("div");
       wrapper.classList.add("photo-card"); // Add CSS class for styling
 
+      // Create a lightbox link wrapper
+      const lightboxLink = document.createElement("a");
+      lightboxLink.href = photo.src; // Link to full-size image
+      lightboxLink.setAttribute("data-lightbox", "gallery"); // Group all images in one gallery
+      lightboxLink.setAttribute("data-title", `${photo.title} - ${photo.description}`); // Lightbox caption
+
       // Create the image element
       const img = document.createElement("img");
       img.src = photo.src; // Set image source from photo data
       img.alt = photo.title; // Set alt text for accessibility
 
-      // Create a caption container for photo information
+      // Create a caption container for photo information (hover overlay)
       const caption = document.createElement("div");
       caption.classList.add("caption"); // Add CSS class for styling
 
@@ -33,8 +39,9 @@ fetch("photos.json")
         <small>Date: ${photo.date}</small><br>
         <small>Tags: ${photo.tags.join(", ")}</small>`;
 
-      // Assemble the photo card: add image and caption to wrapper
-      wrapper.appendChild(img);
+      // Assemble the photo card: add image to lightbox link, then add caption
+      lightboxLink.appendChild(img);
+      wrapper.appendChild(lightboxLink);
       wrapper.appendChild(caption);
       
       // Add the completed photo card to the gallery container
